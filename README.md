@@ -2,7 +2,7 @@
 
 ## Quick stats
 
- - 👋 Hi, I’m Clayton🇨🇦, find me on LinkedIn at <a href="https://www.linkedin.com/in/clayton-persinger-7b8415104/" > Clayton Persinger </a>
+ - 👋 Hi, I’m Clayton, find me on LinkedIn at <a href="https://www.linkedin.com/in/clayton-persinger-7b8415104/" > Clayton Persinger </a>
  - 👀 I’m switching into a career in tech after years of working in the building automation field
  - 🌱 I’m recently graduated from Lighthouse Labs Web Development Diploma program, focusing on JavaScript, Node.js, Express, React, and Ruby on Rails.
  - 📫 E-mail me at persinger.clayton@gmail.com
